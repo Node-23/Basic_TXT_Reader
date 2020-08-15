@@ -1,0 +1,5 @@
+-PRODUCTS-
+
+-Name: TV LED -Price: 1200.41 -In stock: 3 
+-Name: Notbook -Price: 1521.42 -In stock: 5 
+-Name: Mouse -Price: 21.55 -In stock: 12 
